@@ -1,0 +1,14 @@
+body {
+  position: relative;
+}
+.App {
+  font-family: sans-serif;
+}
+.square {
+  background-color: beige;
+  width: 30px;
+  height: 30px;
+  color: black;
+  font-weight: 900;
+  /* position: fixed; */
+}
